@@ -1,4 +1,4 @@
-module github.com/dhowett/go-plist
+module github.com/maelvalais/go-plist
 
 require (
 	// for cmd/ply
